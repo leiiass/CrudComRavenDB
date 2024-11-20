@@ -21,6 +21,7 @@ namespace ShopRavenDb.Api.Controllers
         public ActionResult<IEnumerable<CustomerDto>> AddCustomer(CustomerDto customerDto)
         {
             _customerApplication.AddCustomer(customerDto);
+
             return Ok("Customer Inserted successfully!");
         }
 
@@ -30,6 +31,7 @@ namespace ShopRavenDb.Api.Controllers
         public ActionResult<IEnumerable<CustomerDto>> UpdateCustomer(CustomerDto customerDto)
         {
             _customerApplication.UpdateCustomer(customerDto);
+
             return Ok("Customer updated successfully!");
         }
 
@@ -40,6 +42,7 @@ namespace ShopRavenDb.Api.Controllers
         {
             var formattedCustomerId = Uri.UnescapeDataString(customerId);
             _customerApplication.DeleteCustomer(formattedCustomerId);
+
             return Ok("Customer deleted successfully!");
         }
 
