@@ -118,3 +118,4 @@ C:\Projetos\ShopRavenDb\src\ShopRavenDb.Api\obj\Debug\net8.0\refint\ShopRavenDb.
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Api\obj\Debug\net8.0\ShopRavenDb.Api.pdb
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Api\obj\Debug\net8.0\ShopRavenDb.Api.genruntimeconfig.cache
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Api\obj\Debug\net8.0\ref\ShopRavenDb.Api.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Api\obj\Debug\net8.0\ShopRavenDb.Api.sourcelink.json

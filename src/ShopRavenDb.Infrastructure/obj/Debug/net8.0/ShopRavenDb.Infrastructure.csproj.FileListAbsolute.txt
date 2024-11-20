@@ -40,3 +40,4 @@ C:\Projetos\ShopRavenDb\src\ShopRavenDb.Infrastructure\obj\Debug\net8.0\ShopRave
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Infrastructure\obj\Debug\net8.0\refint\ShopRavenDb.Infrastructure.dll
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Infrastructure\obj\Debug\net8.0\ShopRavenDb.Infrastructure.pdb
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Infrastructure\obj\Debug\net8.0\ref\ShopRavenDb.Infrastructure.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Infrastructure\obj\Debug\net8.0\ShopRavenDb.Infrastructure.sourcelink.json

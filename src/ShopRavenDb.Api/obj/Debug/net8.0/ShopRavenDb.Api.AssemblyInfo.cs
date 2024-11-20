@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopRavenDb.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718987c7090ef7788ba18c068cc9a8eef1a4d51d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopRavenDb.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopRavenDb.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

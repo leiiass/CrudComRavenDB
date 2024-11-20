@@ -32,3 +32,4 @@ C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net8.0\ShopRav
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net8.0\refint\ShopRavenDb.Domain.Services.dll
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net8.0\ShopRavenDb.Domain.Services.pdb
 C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net8.0\ref\ShopRavenDb.Domain.Services.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Services\obj\Debug\net8.0\ShopRavenDb.Domain.Services.sourcelink.json
