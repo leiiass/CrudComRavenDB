@@ -1,0 +1,22 @@
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.deps.json
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.AssemblyInfoInputs.cache
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.AssemblyInfo.cs
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\refint\ShopRavenDb.Domain.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ref\ShopRavenDb.Domain.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.deps.json
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\bin\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.AssemblyInfo.cs
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\refint\ShopRavenDb.Domain.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain\obj\Debug\net8.0\ref\ShopRavenDb.Domain.dll

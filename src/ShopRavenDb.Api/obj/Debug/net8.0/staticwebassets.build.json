@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SNEX/TYV5iWzjV+vadCPl/4N+RKhKdLNDUc7niWvmKM=",
+  "Source": "ShopRavenDb.Api",
+  "BasePath": "_content/ShopRavenDb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

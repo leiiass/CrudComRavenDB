@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj",
+        "projectName": "ShopRavenDb.Domain.Core",
+        "projectPath": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\ShopRavenDb.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Léia Mendes\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Léia Mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\ShopRavenDb.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\ShopRavenDb.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\ShopRavenDb.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\ShopRavenDb.Domain.csproj",
+        "projectName": "ShopRavenDb.Domain",
+        "projectPath": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\ShopRavenDb.Domain.csproj",
+        "packagesPath": "C:\\Users\\Léia Mendes\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Léia Mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

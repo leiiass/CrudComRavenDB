@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ShopRavenDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6368F963-461E-406A-8730-785D0FC3FA2C}|src\\ShopRavenDb.Api\\ShopRavenDb.Api.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6368F963-461E-406A-8730-785D0FC3FA2C}|src\\ShopRavenDb.Api\\ShopRavenDb.Api.csproj|solutionrelative:src\\shopravendb.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.infrastructure\\data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|solutionrelative:src\\shopravendb.infrastructure\\data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}|src\\ShopRavenDb.Application\\ShopRavenDb.Application.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.application\\customerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}|src\\ShopRavenDb.Application\\ShopRavenDb.Application.csproj|solutionrelative:src\\shopravendb.application\\customerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6368F963-461E-406A-8730-785D0FC3FA2C}|src\\ShopRavenDb.Api\\ShopRavenDb.Api.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6368F963-461E-406A-8730-785D0FC3FA2C}|src\\ShopRavenDb.Api\\ShopRavenDb.Api.csproj|solutionrelative:src\\shopravendb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.infrastructure\\crosscutting\\ioc\\servicescollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|solutionrelative:src\\shopravendb.infrastructure\\crosscutting\\ioc\\servicescollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|c:\\projetos\\shopravendb\\src\\shopravendb.infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E1EBB-B52F-4B00-BD6C-78579F87503C}|src\\ShopRavenDb.Infrastructure\\ShopRavenDb.Infrastructure.csproj|solutionrelative:src\\shopravendb.infrastructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\Data\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Infrastructure\\Data\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\Data\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Infrastructure\\Data\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:44:37.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:20:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usings.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\usings.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Infrastructure\\usings.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\usings.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Infrastructure\\usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:11:35.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerApplication.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Application\\CustomerApplication.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Application\\CustomerApplication.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Application\\CustomerApplication.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Application\\CustomerApplication.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:01:31.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\CrossCutting\\Ioc\\ServicesCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Infrastructure\\CrossCutting\\Ioc\\ServicesCollectionExtensions.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Infrastructure\\CrossCutting\\Ioc\\ServicesCollectionExtensions.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Infrastructure\\CrossCutting\\Ioc\\ServicesCollectionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:54:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ShopRavenDb.Api\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ShopRavenDb\\src\\ShopRavenDb.Api\\Program.cs",
+              "RelativeToolTip": "src\\ShopRavenDb.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:53:18.901Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

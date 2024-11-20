@@ -1,0 +1,30 @@
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.deps.json
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.pdb
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.AssemblyInfo.cs
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRave.DBDB3D9E.Up2Date
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\refint\ShopRavenDb.Domain.Core.dll
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.pdb
+C:\Users\Léia Mendes\source\repos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ref\ShopRavenDb.Domain.Core.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.deps.json
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.Core.pdb
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\bin\Debug\net8.0\ShopRavenDb.Domain.pdb
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.csproj.AssemblyReference.cache
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.AssemblyInfo.cs
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRave.DBDB3D9E.Up2Date
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\refint\ShopRavenDb.Domain.Core.dll
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ShopRavenDb.Domain.Core.pdb
+C:\Projetos\ShopRavenDb\src\ShopRavenDb.Domain.Core\obj\Debug\net8.0\ref\ShopRavenDb.Domain.Core.dll

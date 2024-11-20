@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Api", "src\ShopRavenDb.Api\ShopRavenDb.Api.csproj", "{6368F963-461E-406A-8730-785D0FC3FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Application", "src\ShopRavenDb.Application\ShopRavenDb.Application.csproj", "{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Domain", "src\ShopRavenDb.Domain\ShopRavenDb.Domain.csproj", "{503FFF6F-B171-4AD9-9F2D-EA8DFB48107D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Domain.Core", "src\ShopRavenDb.Domain.Core\ShopRavenDb.Domain.Core.csproj", "{E04F282C-90BB-45CC-926E-9898EBDD2316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Domain.Services", "src\ShopRavenDb.Domain.Services\ShopRavenDb.Domain.Services.csproj", "{7E157DF7-AB1B-4F76-ABCF-81BB295EA8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopRavenDb.Infrastructure", "src\ShopRavenDb.Infrastructure\ShopRavenDb.Infrastructure.csproj", "{234E1EBB-B52F-4B00-BD6C-78579F87503C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6368F963-461E-406A-8730-785D0FC3FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6368F963-461E-406A-8730-785D0FC3FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6368F963-461E-406A-8730-785D0FC3FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6368F963-461E-406A-8730-785D0FC3FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C5DDAF-074D-40C2-9DE9-0D6CD686FF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503FFF6F-B171-4AD9-9F2D-EA8DFB48107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503FFF6F-B171-4AD9-9F2D-EA8DFB48107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503FFF6F-B171-4AD9-9F2D-EA8DFB48107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503FFF6F-B171-4AD9-9F2D-EA8DFB48107D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04F282C-90BB-45CC-926E-9898EBDD2316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04F282C-90BB-45CC-926E-9898EBDD2316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04F282C-90BB-45CC-926E-9898EBDD2316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04F282C-90BB-45CC-926E-9898EBDD2316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E157DF7-AB1B-4F76-ABCF-81BB295EA8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E157DF7-AB1B-4F76-ABCF-81BB295EA8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E157DF7-AB1B-4F76-ABCF-81BB295EA8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E157DF7-AB1B-4F76-ABCF-81BB295EA8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234E1EBB-B52F-4B00-BD6C-78579F87503C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234E1EBB-B52F-4B00-BD6C-78579F87503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234E1EBB-B52F-4B00-BD6C-78579F87503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234E1EBB-B52F-4B00-BD6C-78579F87503C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67ECE996-A212-4C50-B9EE-E84FC603AA23}
+	EndGlobalSection
+EndGlobal
